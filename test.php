@@ -12,4 +12,5 @@
     
 $new = new helloworld();
 $new->helloworld('Stephen');
+$new->myipaddress();
 ?>
